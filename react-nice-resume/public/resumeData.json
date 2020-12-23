@@ -1,0 +1,39 @@
+{
+  "main": {
+    "name":"Mãe Ana de Oxum",
+    "description":"Ajuda e encaminhamento espiritual e emocional.",
+    "image":"familia.jpg",
+    "bio":"...",
+    "contactmessage":"Entre em contato pelo telefone, e-mail ou whatsapp.",
+    "email": "deorgenes.junior@gmail.com",
+    "phone": "+55 51 98537-0662",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ana.xavier.167189",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/deorgenes-xavier-0518b3188/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/dejotaxs/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {"image":"portfolio_1.jpg"},
+      {"image":"portfolio_2.jpg"},
+      {"image":"portfolio_3.jpg"},
+      {"image":"portfolio_4.jpg"},
+      {"image":"portfolio_5.jpg"},
+      {"image":"portfolio_6.jpg"},
+      {"image":"portfolio_7.jpg"}
+    ]
+  }
+}
